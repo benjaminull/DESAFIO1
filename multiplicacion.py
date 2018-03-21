@@ -5,4 +5,11 @@ SyntaxError: invalid syntax
 >>> def multiplicacion (x,y):
 	return x*y
 
->>> 
+>>> def multiplicacion (x,y,z,w):
+        return x*y*z*w
+
+
+
+
+
+
